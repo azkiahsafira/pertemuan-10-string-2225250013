@@ -1,0 +1,47 @@
+# ==========================================
+# PROJECT : Algoritma dan Pemrograman
+# TOPIC   : Pertemuan 10 - String dan Teks
+# AUTHOR  : Azkiah Safira
+# NIM     : 2225250013
+# CLASS   : 3F
+# ==========================================
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build and Distribution
+build/
+dist/
+*.egg-info/
+
+# IDE and Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Operating System
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary and Log Files
+*.tmp
+*.temp
+*.log
